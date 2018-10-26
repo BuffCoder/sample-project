@@ -1,11 +1,3 @@
 # sample-project
 
-This is a sample git project.
-
-And this is the second pull-request!
-
-And finally... numero 3!
-
-Wait!  You need 5 PRs...
-
-Ahhhh... There we go... number 5!
+This is a story of how I aquired a great many of camels.
