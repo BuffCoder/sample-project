@@ -9,5 +9,7 @@ We find our hero working away at his computer...
 THE FINAL PR!
 
 After spending a lot of time at a particular hub, our hero found himself at a second hub, Github. This second hub also had plenty of tentacles.
+
 <img src="https://i.imgur.com/uWteCty.jpg" alt="Github cat thing" width="250"/>
+
 There he found two compatriots willing to share their secrets.
