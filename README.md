@@ -13,3 +13,5 @@ After spending a lot of time at a particular hub, our hero found himself at a se
 <img src="https://i.imgur.com/uWteCty.jpg" alt="Github cat thing" width="250"/>
 
 There he found two compatriots willing to share their secrets.
+
+And boy did they have some secrets.
