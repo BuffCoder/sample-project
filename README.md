@@ -14,3 +14,9 @@ These are a list of individuals you should know. Dropping them in random ass con
 List of videos to help culture you
 
 [![The Website is Down](https://i.imgur.com/95DwcA0.png)](https://www.youtube.com/watch?v=uRGljemfwUE)
+
+## Swag
+Its all about looking like you know shit... while knowing shit
+
+* https://www.redbubble.com/shop/dev+stickers
+* https://www.redbubble.com/shop/developer+t-shirts
