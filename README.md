@@ -8,4 +8,9 @@ These are a list of individuals you should know. Dropping them in random ass con
 * TJ Holowaychuk
 
 ## Dank Memes
-![alt text](https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/programming-or-googling.jpg "Logo Title Text 1")
+![Not Sure](https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/programming-or-googling.jpg "Not Sure")
+
+## Watch & Learn
+List of videos to help culture you
+
+[![The Website is Down](https://i.imgur.com/95DwcA0.png)](https://www.youtube.com/watch?v=uRGljemfwUE)
